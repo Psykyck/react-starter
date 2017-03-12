@@ -1,6 +1,4 @@
-Rekognition Sample Project
-
-ATM Hackathon
+React Starter Template
 
 Usage
 ---
